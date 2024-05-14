@@ -1,0 +1,8 @@
+<div class="filter-condition">
+				<span>View As a</span>
+				<select name="" id="select">
+					<option value="Default">Default</option>
+					<option value="LowToHigh">Low to high</option>
+					<option value="HighToLow">High to low</option>
+				</select>
+			</div>
